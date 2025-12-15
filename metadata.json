@@ -1,0 +1,7 @@
+{
+  "name": "RH Fácil - Gestão Completa",
+  "description": "Sistema SaaS de gestão de RH para empresas brasileiras com dashboard, gestão de benefícios, funcionários e compliance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
